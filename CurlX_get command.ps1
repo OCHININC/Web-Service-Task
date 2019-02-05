@@ -1,7 +1,7 @@
 ﻿<#
 .SYNOPSIS
 Create a scheduled task on DCUTIL01 to execute a web service
-Written by Jason Kimberly.
+Written by Jason Kimberly with help from Duane E.
 Version 1.1
 
 .LINK
